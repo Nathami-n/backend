@@ -1,0 +1,11 @@
+20240205	22:12:33	 ebd84de8-5e72-41d1-93f0-59b143f18547 	 GET	undefined	/nathan
+20240205	22:19:07	 a0c90249-4afd-49a4-9b51-18cfa6631627 	 GET	undefined	/nathan
+20240205	22:19:08	 12ede307-c3bf-42b4-bf55-8b7b5a69f44c 	 GET	undefined	/nathan
+20240205	22:20:48	 35e190a8-074a-43ae-898b-10a25895a2ee 	 GET	undefined	/
+20240205	22:20:48	 b6b74c91-5c5d-4718-b77d-c99bb5d0653b 	 GET	undefined	/browser-app.js
+20240205	22:20:48	 7b80e051-1dd5-4c29-9bc7-1f0bc2bfb88e 	 GET	undefined	/normalize.css
+20240205	22:20:48	 1be37c76-70a1-4c39-bf13-c7fb2fada57a 	 GET	undefined	/main.css
+20240205	22:20:49	 bfb546a4-8f19-49a3-8a6a-89124868be50 	 GET	undefined	/api/v1/tasks
+20240205	22:20:50	 69aea555-07d6-4677-89cf-3628d4228669 	 GET	undefined	/favicon.ico
+20240205	22:20:56	 8763c43a-9c84-4b6d-b89b-92673c40864e 	 POST	http://localhost:3000	/api/v1/tasks
+20240205	22:20:56	 41e94566-0735-4efa-82f5-3aae255e4fad 	 GET	undefined	/api/v1/tasks
