@@ -6,19 +6,19 @@ const postController = async (req, res) => {
 };
 
 const getAllTasksController = async (req, res) => {
-  const tasks = await Task.find({});
-  res.status(200).json({ tasks });
+  const task = await Task.find({});
+  res.status(200).json({ task });
 };
 
 const getSingleTaskController = async (req, res) => {
   const { id: taskID } = req.params;
-  const task = Task.find({ _id: taskID });
+  const task =  await Task.findOne({ _id: taskID });
   res.status(200).json({ task });
 };
 const patchTaskController = async (req, res) => {
   const { id: taskID } = req.params;
   const task =  await Task.findOneAndUpdate({ _id: taskID }, req.body, {
-    new: True,
+    new: true,
     runValidators: true,
   });
   if (!task) {

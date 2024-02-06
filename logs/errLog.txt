@@ -1,0 +1,38 @@
+20240206	17:58:51	 980a186b-b759-4bbd-8715-dd56588fe02b 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	17:59:22	 d91cc782-5f54-41a9-918e-63906f408d0f 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	17:59:47	 c66137bd-94a3-41be-9318-461e8ae81f54 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	17:59:54	 12ba2779-0524-4e25-8ab9-00ed9f591e18 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:05:01	 6338e904-bb9c-468c-818b-d084d9ca597e 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:05:05	 2c5fff27-4ae2-49c3-ad23-00d0744b2b75 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:05:24	 d0750ec9-a94c-44dc-83b6-664d015d8420 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:05:25	 039e9e10-bac4-478b-902a-ddaeba41970d 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:05:25	 5dc9229e-2832-45a8-98d8-44316cd65317 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:05:26	 60d3ce78-fbc3-48ca-8a91-b0cee5fad510 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:05:26	 d06085fb-50ff-409c-b701-d195b845789a 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:07:22	 1a75a2bd-fcb0-4aed-b1be-df17d9ffcd74 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:07:23	 34f1a59e-9a68-4fe3-aa4c-272752f2f59b 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:07:23	 ec38ef6b-7dbe-4384-baba-dafb0b0a2f84 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:07:24	 20b5a3ba-186b-474c-8b0f-0b86b9aad7c0 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:07:24	 e943fca1-e788-4b36-8d58-fba98f36d204 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:07:57	 6c88b8d8-46a7-4286-bb6d-e81a48e37d14 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:07:58	 69baf2f6-253d-413f-ba20-6a69111315a4 	 MongoServerError	 Invalid namespace specified ' TASK-MANAGER.tasks'
+
+20240206	18:12:36	 8175f5a2-1101-4c25-8a88-46491ce688c0 	 SyntaxError	 Unexpected string in JSON at position 23
+
