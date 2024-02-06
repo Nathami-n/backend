@@ -1,22 +1,24 @@
-const getTasks = (req, res) => {
-  res.json({ success: true, message: "terue" });
-};
-const getTask = (req, res) => {
-  res.json({ id: req.params.id, message: "hello" });
-};
-const postTask = (req, res) => {
-  res.json({ success: true, message: "terue" });
-};
-const patchTask = (req, res) => {
-  res.json({ success: true, message: "terue" });
-};
-const deleteTask = (req, res) => {
-  res.json({ success: true, message: "terue" });
-};
+const asyncCover = require("../middleware/asyncCover");
+const {
+  postController,
+  getAllTasksController,
+  getSingleTaskController,
+  patchTaskController,
+  deleteTaskController,
+} = require("./subController");
 
+const postTask = asyncCover(postController);
+
+const getAllTasks = asyncCover(getAllTasksController);
+
+const getSingleTask = asyncCover(getSingleTaskController);
+
+const patchTask = asyncCover(patchTaskController);
+
+const deleteTask = asyncCover(deleteTaskController);
 module.exports = {
-  getTasks,
-  getTask,
+  getAllTasks,
+  getSingleTask,
   postTask,
   patchTask,
   deleteTask,
